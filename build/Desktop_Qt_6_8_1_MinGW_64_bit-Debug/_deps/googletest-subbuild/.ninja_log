@@ -1,0 +1,21 @@
+# ninja log v6
+6896	6974	7596347976346374	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	6c2c6fbc4d4a558a
+2	75	7596347907378665	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	839f3e0beb936268
+6692	6758	7596347974207624	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	4eb0d01b18a639ec
+2	75	7596347907378665	C:/Users/MICROSOFT/Documents/RzeszowJasionka_BazaLotow/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	839f3e0beb936268
+6974	7041	7596347977075964	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	d58a099fcd4d3f9f
+6692	6758	7596347974207624	C:/Users/MICROSOFT/Documents/RzeszowJasionka_BazaLotow/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	4eb0d01b18a639ec
+77	6692	7596347973572441	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	2bceea88f49a5eae
+6759	6827	7596347974917201	C:/Users/MICROSOFT/Documents/RzeszowJasionka_BazaLotow/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	4fc368166579cc9b
+77	6692	7596347973572441	C:/Users/MICROSOFT/Documents/RzeszowJasionka_BazaLotow/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	2bceea88f49a5eae
+6759	6827	7596347974917201	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	4fc368166579cc9b
+6828	6896	7596347975596808	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	ba896b915e041fe5
+7114	7211	7596347978755016	CMakeFiles/googletest-populate-complete	f44565588123f8b3
+6828	6896	7596347975596808	C:/Users/MICROSOFT/Documents/RzeszowJasionka_BazaLotow/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	ba896b915e041fe5
+6896	6974	7596347976346374	C:/Users/MICROSOFT/Documents/RzeszowJasionka_BazaLotow/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	6c2c6fbc4d4a558a
+6974	7041	7596347977075964	C:/Users/MICROSOFT/Documents/RzeszowJasionka_BazaLotow/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	d58a099fcd4d3f9f
+7041	7114	7596347977785554	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	781d9426fe1b1cae
+7041	7114	7596347977785554	C:/Users/MICROSOFT/Documents/RzeszowJasionka_BazaLotow/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	781d9426fe1b1cae
+7114	7211	7596347978755016	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	f44565588123f8b3
+7114	7211	7596347978755016	C:/Users/MICROSOFT/Documents/RzeszowJasionka_BazaLotow/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	f44565588123f8b3
+7114	7211	7596347978755016	C:/Users/MICROSOFT/Documents/RzeszowJasionka_BazaLotow/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	f44565588123f8b3

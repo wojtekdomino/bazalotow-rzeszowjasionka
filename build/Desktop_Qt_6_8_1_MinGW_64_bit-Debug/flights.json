@@ -1,0 +1,419 @@
+[
+    {
+        "flightNumber": "FR1467",
+        "departure": "Rzeszów",
+        "arrival": "Alicante",
+        "time": "05:50",
+        "carrier": "Ryanair",
+        "flightCode": "FR1467",
+        "aircraftType": "B738",
+        "daysOfWeek": [
+            5
+        ]
+    },
+    {
+        "flightNumber": "FR1467",
+        "departure": "Rzeszów",
+        "arrival": "Alicante",
+        "time": "13:05",
+        "carrier": "Ryanair",
+        "flightCode": "FR1467",
+        "aircraftType": "B738",
+        "daysOfWeek": [
+            1
+        ]
+    },
+    {
+        "flightNumber": "FR8224",
+        "departure": "Rzeszów",
+        "arrival": "Bristol",
+        "time": "05:45",
+        "carrier": "Ryanair",
+        "flightCode": "FR8224",
+        "aircraftType": "B738",
+        "daysOfWeek": [
+            1
+        ]
+    },
+    {
+        "flightNumber": "FR8224",
+        "departure": "Rzeszów",
+        "arrival": "Bristol",
+        "time": "05:55",
+        "carrier": "Ryanair",
+        "flightCode": "FR8224",
+        "aircraftType": "B738",
+        "daysOfWeek": [
+            1
+        ]
+    },
+    {
+        "flightNumber": "FR862",
+        "departure": "Rzeszów",
+        "arrival": "Dublin",
+        "time": "05:45",
+        "carrier": "Ryanair",
+        "flightCode": "FR862",
+        "aircraftType": "B738",
+        "daysOfWeek": [
+            6
+        ]
+    },
+    {
+        "flightNumber": "LO3515",
+        "departure": "Rzeszów",
+        "arrival": "Gdańsk",
+        "time": "21:20",
+        "carrier": "PLL LOT",
+        "flightCode": "LO3515",
+        "aircraftType": "E175",
+        "daysOfWeek": [
+            1,
+            5
+        ]
+    },
+    {
+        "flightNumber": "FR3472",
+        "departure": "Rzeszów",
+        "arrival": "Londyn Luton",
+        "time": "09:45",
+        "carrier": "Ryanair",
+        "flightCode": "FR3472",
+        "aircraftType": "B738",
+        "daysOfWeek": [
+            1
+        ]
+    },
+    {
+        "flightNumber": "FR2134",
+        "departure": "Rzeszów",
+        "arrival": "Londyn Stansted",
+        "time": "06:20",
+        "carrier": "Ryanair",
+        "flightCode": "FR2134",
+        "aircraftType": "B738/A320",
+        "daysOfWeek": [
+            4
+        ]
+    },
+    {
+        "flightNumber": "FR3863",
+        "departure": "Rzeszów",
+        "arrival": "Malta",
+        "time": "05:50",
+        "carrier": "Ryanair",
+        "flightCode": "FR3863",
+        "aircraftType": "B738/B7M8",
+        "daysOfWeek": [
+            6
+        ]
+    },
+    {
+        "flightNumber": "FR3202",
+        "departure": "Rzeszów",
+        "arrival": "Manchester",
+        "time": "05:45",
+        "carrier": "Ryanair",
+        "flightCode": "FR3202",
+        "aircraftType": "B738",
+        "daysOfWeek": [
+            5
+        ]
+    },
+    {
+        "flightNumber": "W46353",
+        "departure": "Rzeszów",
+        "arrival": "Mediolan-Malpensa",
+        "time": "06:05",
+        "carrier": "Wizz Air",
+        "flightCode": "W46353",
+        "aircraftType": "A320/A321",
+        "daysOfWeek": [
+            6
+        ]
+    },
+    {
+        "flightNumber": "LH1604",
+        "departure": "Rzeszów",
+        "arrival": "Monachium",
+        "time": "11:00",
+        "carrier": "Lufthansa",
+        "flightCode": "LH1604",
+        "aircraftType": "CRJ9",
+        "daysOfWeek": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "flightNumber": "LO18",
+        "departure": "Rzeszów",
+        "arrival": "Nowy Jork - Newark",
+        "time": "20:10",
+        "carrier": "PLL LOT",
+        "flightCode": "LO18",
+        "aircraftType": "B787-8",
+        "daysOfWeek": [
+            1
+        ]
+    },
+    {
+        "flightNumber": "BT463",
+        "departure": "Rzeszów",
+        "arrival": "Ryga",
+        "time": "13:00",
+        "carrier": "Air Baltic",
+        "flightCode": "BT463",
+        "aircraftType": "A223",
+        "daysOfWeek": [
+            1,
+            5
+        ]
+    },
+    {
+        "flightNumber": "W48521",
+        "departure": "Rzeszów",
+        "arrival": "Rzym-Fiumicino",
+        "time": "05:30",
+        "carrier": "Wizz Air",
+        "flightCode": "W48521",
+        "aircraftType": "A321neo",
+        "daysOfWeek": [
+            2,
+            6
+        ]
+    },
+    {
+        "flightNumber": "LO3803",
+        "departure": "Rzeszów",
+        "arrival": "Warszawa",
+        "time": "23:10",
+        "carrier": "PLL LOT",
+        "flightCode": "LO3803",
+        "aircraftType": "E170/E175/E190/E195/B737",
+        "daysOfWeek": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7
+        ]
+    },
+    {
+        "flightNumber": "FR9400",
+        "departure": "Rzeszów",
+        "arrival": "Zadar",
+        "time": "06:05",
+        "carrier": "Ryanair",
+        "flightCode": "FR9400",
+        "aircraftType": "B738/A320",
+        "daysOfWeek": [
+            2
+        ]
+    },
+    {
+        "flightNumber": "FR1468",
+        "departure": "Alicante",
+        "arrival": "Rzeszów",
+        "time": "09:30",
+        "carrier": "Ryanair",
+        "flightCode": "FR1468",
+        "aircraftType": "B738",
+        "daysOfWeek": [
+            5
+        ]
+    },
+    {
+        "flightNumber": "FR1468",
+        "departure": "Alicante",
+        "arrival": "Rzeszów",
+        "time": "16:45",
+        "carrier": "Ryanair",
+        "flightCode": "FR1468",
+        "aircraftType": "B738",
+        "daysOfWeek": [
+            1
+        ]
+    },
+    {
+        "flightNumber": "FR8225",
+        "departure": "Bristol",
+        "arrival": "Rzeszów",
+        "time": "10:00",
+        "carrier": "Ryanair",
+        "flightCode": "FR8225",
+        "aircraftType": "B738",
+        "daysOfWeek": [
+            1
+        ]
+    },
+    {
+        "flightNumber": "FR8225",
+        "departure": "Bristol",
+        "arrival": "Rzeszów",
+        "time": "10:10",
+        "carrier": "Ryanair",
+        "flightCode": "FR8225",
+        "aircraftType": "B738",
+        "daysOfWeek": [
+            5
+        ]
+    },
+    {
+        "flightNumber": "FR863",
+        "departure": "Dublin",
+        "arrival": "Rzeszów",
+        "time": "22:55",
+        "carrier": "Ryanair",
+        "flightCode": "FR863",
+        "aircraftType": "B738",
+        "daysOfWeek": [
+            1
+        ]
+    },
+    {
+        "flightNumber": "LO3516",
+        "departure": "Gdańsk",
+        "arrival": "Rzeszów",
+        "time": "06:55",
+        "carrier": "PLL LOT",
+        "flightCode": "LO3516",
+        "aircraftType": "E175",
+        "daysOfWeek": [
+            2,
+            6
+        ]
+    },
+    {
+        "flightNumber": "FR3473",
+        "departure": "Londyn Luton",
+        "arrival": "Rzeszów",
+        "time": "13:40",
+        "carrier": "Ryanair",
+        "flightCode": "FR3473",
+        "aircraftType": "B738",
+        "daysOfWeek": [
+            1
+        ]
+    },
+    {
+        "flightNumber": "FR2135",
+        "departure": "Londyn Stansted",
+        "arrival": "Rzeszów",
+        "time": "10:10",
+        "carrier": "Ryanair",
+        "flightCode": "FR2135",
+        "aircraftType": "B738/A320",
+        "daysOfWeek": [
+            1
+        ]
+    },
+    {
+        "flightNumber": "FR3864",
+        "departure": "Malta",
+        "arrival": "Rzeszów",
+        "time": "09:00",
+        "carrier": "Ryanair",
+        "flightCode": "FR3864",
+        "aircraftType": "B738/B7M8",
+        "daysOfWeek": [
+            6
+        ]
+    },
+    {
+        "flightNumber": "FR3203",
+        "departure": "Manchester",
+        "arrival": "Rzeszów",
+        "time": "09:50",
+        "carrier": "Ryanair",
+        "flightCode": "FR3203",
+        "aircraftType": "B738",
+        "daysOfWeek": [
+            5
+        ]
+    },
+    {
+        "flightNumber": "FR1102",
+        "departure": "Mediolan-Malpensa",
+        "arrival": "Rzeszów",
+        "time": "08:05",
+        "carrier": "Ryanair",
+        "flightCode": "FR1102",
+        "aircraftType": "B738/A320",
+        "daysOfWeek": [
+            7
+        ]
+    },
+    {
+        "flightNumber": "LO17",
+        "departure": "Nowy Jork - Newark",
+        "arrival": "Rzeszów",
+        "time": "13:35",
+        "carrier": "PLL LOT",
+        "flightCode": "LO17",
+        "aircraftType": "B787-8",
+        "daysOfWeek": [
+            1
+        ]
+    },
+    {
+        "flightNumber": "BT464",
+        "departure": "Ryga",
+        "arrival": "Rzeszów",
+        "time": "14:20",
+        "carrier": "Air Baltic",
+        "flightCode": "BT464",
+        "aircraftType": "A223",
+        "daysOfWeek": [
+            1,
+            5
+        ]
+    },
+    {
+        "flightNumber": "W48522",
+        "departure": "Rzym-Fiumicino",
+        "arrival": "Rzeszów",
+        "time": "21:55",
+        "carrier": "Wizz Air",
+        "flightCode": "W48522",
+        "aircraftType": "A321neo",
+        "daysOfWeek": [
+            6
+        ]
+    },
+    {
+        "flightNumber": "LO3804",
+        "departure": "Warszawa",
+        "arrival": "Rzeszów",
+        "time": "05:45",
+        "carrier": "PLL LOT",
+        "flightCode": "LO3804",
+        "aircraftType": "E170/E175/E190/E195/B737",
+        "daysOfWeek": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "flightNumber": "FR9399",
+        "departure": "Zadar",
+        "arrival": "Rzeszów",
+        "time": "22:40",
+        "carrier": "Ryanair",
+        "flightCode": "FR9399",
+        "aircraftType": "B738/A320",
+        "daysOfWeek": [
+            6
+        ]
+    }
+]

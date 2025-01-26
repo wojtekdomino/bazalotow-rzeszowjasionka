@@ -1,0 +1,10 @@
+# ninja log v6
+56	1437	7596341396608117	RzeszowJasionka_BazaLotow_autogen/timestamp	a8b396199a59340c
+56	1437	7596341396608117	RzeszowJasionka_BazaLotow_autogen/mocs_compilation.cpp	a8b396199a59340c
+56	1437	7596341396608117	C:/Users/MICROSOFT/Documents/RzeszowJasionka_BazaLotow/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/RzeszowJasionka_BazaLotow_autogen/timestamp	a8b396199a59340c
+1454	8021	7596341398237182	CMakeFiles/RzeszowJasionka_BazaLotow.dir/database.cpp.obj	626f3cc3e0e247a0
+56	1437	7596341396608117	C:/Users/MICROSOFT/Documents/RzeszowJasionka_BazaLotow/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/RzeszowJasionka_BazaLotow_autogen/mocs_compilation.cpp	a8b396199a59340c
+1439	6919	7596341398097269	CMakeFiles/RzeszowJasionka_BazaLotow.dir/RzeszowJasionka_BazaLotow_autogen/mocs_compilation.cpp.obj	673a90afe9add784
+1445	6937	7596341398147240	CMakeFiles/RzeszowJasionka_BazaLotow.dir/main.cpp.obj	9449b2bc8a863d1b
+1449	8895	7596341398197206	CMakeFiles/RzeszowJasionka_BazaLotow.dir/mainwindow.cpp.obj	41d94a8f451b8ab4
+8895	9770	7596341472654661	RzeszowJasionka_BazaLotow.exe	18b8d17e726c8d6a
